@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saraswathi524
 - 👀 I’m interested in Web Development, PowerBI
-- 🌱 I’m currently learning it.
+- 🌱 I’m currently learning them.
 - 💞️ I’m looking to collaborate on other github users.
 - 📫 How to reach me Emial: saraswathi7812@gmail.com
 
